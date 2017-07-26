@@ -1,0 +1,56 @@
+body {
+  background-color: white;
+}
+
+.animalButtons {
+  width: 100%;
+}
+
+#animalGifs {
+  float: left;
+  margin: 20px;
+  max-width: 960px;
+}
+
+.item {
+  display: inline-block;
+  margin: 10px 10px;
+  vertical-align: top;
+}
+
+.animalFormDiv {
+  float: right;
+  margin: 20px;
+}
+
+button {
+  background-color: #4aaaa5;
+  color: white;
+  width: 100px;
+  height: 30px;
+  margin-left: 10px;
+  margin-top: 5px;
+  border: none;
+  border-radius: 5px;
+}
+
+#addAnimal {
+  background-color: #4aaaa5;
+  color: white;
+  border: none;
+  margin-top: 5px;
+  border-radius: 5px;
+  width: 60px;
+  height: 30px;
+}
+
+label {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+#animal-input {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  width: 300px;
+}
